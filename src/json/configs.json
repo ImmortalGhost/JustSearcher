@@ -1,0 +1,7 @@
+{
+  "backend": "http://localhost:8081",
+  "backend_old": "http://afb04756b8bf44a9580d68cc7db7a859-1666686014.eu-north-1.elb.amazonaws.com:8081",
+  "backend_docker_compose_local": "http://app:8081"
+
+}
+ 
